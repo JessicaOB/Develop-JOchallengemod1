@@ -14,6 +14,7 @@ A marketing agency webpage update which included:
 ## Usage
 
 The following link can be used to view the webpage: 
+https://jessicaob.github.io/Develop-JOchallengemod1/
 
 Here is a screenshot of the completed project: 
 
